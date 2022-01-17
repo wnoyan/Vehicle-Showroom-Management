@@ -2,7 +2,7 @@
 
 ## YouTube Video Link: https://youtu.be/X67n5NYcWwk
 
-This is a menu-driven project that has been developed using OOP features including inheritance, polymorphism, abstraction and interface in java for vehicle showroom management.
+This is a menu-driven project that has been developed using OOP features including inheritance, polymorphism, abstraction, and encapsulation in java for vehicle showroom management.
 
 ## Object Oriented Programming (OOP) Features
 The OOP features that have been used in this project are listed below:
@@ -10,7 +10,6 @@ The OOP features that have been used in this project are listed below:
   * Abstraction
   * Inheritance
   * Polymorphism
-  * Interface
 
 ## Snapshot of the Project
 
